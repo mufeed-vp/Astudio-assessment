@@ -1,0 +1,33 @@
+
+  .tableResponsive{
+    padding: 10px 30px;
+  }
+  .tableRow:hover {
+    background-color: #ebebeb;
+  }
+ 
+  .table {
+    border-collapse: collapse;
+    width: 100%;
+   
+  }
+  
+  .tableHeader th {
+    border: 1px solid #ebebeb;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #c0e3e5;
+    // color: white;
+  }
+  
+  .tableRow td {
+    font-size: small;
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 8px;
+
+  }
+  
+  
